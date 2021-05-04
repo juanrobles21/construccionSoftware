@@ -1,2 +1,3 @@
 hola
 nueva actualizacion
+se guardo mis primeras habilidas de es en pyhton
