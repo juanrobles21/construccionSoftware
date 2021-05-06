@@ -1,3 +1,7 @@
 hola
 nueva actualizacion
 se guardo mis primeras habilidas de es en pyhton
+ORM
+URL
+PATH
+BASE DE DATOS
