@@ -1,5 +1,2 @@
 hola
 ordenar apliacacion por modulos
-ORM
-url
-path
